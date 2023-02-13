@@ -1,0 +1,9 @@
+body {
+    background-color: bisque;
+}
+
+.img001 {
+    max-width: 300px;
+    height: auto;
+    display: inline-flex;
+}
